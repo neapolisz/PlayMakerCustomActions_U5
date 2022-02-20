@@ -3,7 +3,7 @@ using System.Collections;
 using HutongGames.PlayMaker;
 using UnityEngine;
 
-namespace neapolis.tarzerind.eu.actions
+namespace neapolis.tarzerind.eu.actions.transform
 {
     /// <summary>
     ///     <author> Tar Zerind Kft. - Nea Polisz Game Development Division.</author>

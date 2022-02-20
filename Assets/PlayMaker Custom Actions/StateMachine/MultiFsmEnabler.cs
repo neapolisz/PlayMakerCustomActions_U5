@@ -1,6 +1,6 @@
 using HutongGames.PlayMaker;
 
-namespace neapolis.tarzerind.eu.actions
+namespace neapolis.tarzerind.eu.actions.statemachine
 {
     /// <summary>
     ///     <author> Tar Zerind Kft. - Nea Polisz Game Development Division.</author>

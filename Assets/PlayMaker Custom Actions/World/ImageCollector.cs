@@ -6,7 +6,7 @@ using UnityEngine;
 using UnityEngine.Networking;
 using UnityEngine.UI;
 
-namespace neapolis.tarzerind.eu.actions
+namespace neapolis.tarzerind.eu.actions.world
 {
     /// <summary>
     ///     <author> Tar Zerind Kft. - Nea Polisz Game Development Division.</author>

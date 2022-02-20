@@ -1,7 +1,7 @@
 using System;
 using HutongGames.PlayMaker;
 
-namespace neapolis.tarzerind.eu.actions
+namespace neapolis.tarzerind.eu.actions.time
 {
     /// <summary>
     ///     <author> Tar Zerind Kft. - Nea Polisz Game Development Division.</author>

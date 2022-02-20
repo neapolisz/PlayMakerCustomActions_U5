@@ -1,7 +1,7 @@
 using HutongGames.PlayMaker;
-using static neapolis.tarzerind.eu.actions.FloatAndBoolDecision;
+using static neapolis.tarzerind.eu.actions.logic.FloatAndBoolDecision;
 
-namespace neapolis.tarzerind.eu.actions
+namespace neapolis.tarzerind.eu.actions.logic
 {
     /// <summary>
     ///     <author> Tar Zerind Kft. - Nea Polisz Game Development Division.</author>
